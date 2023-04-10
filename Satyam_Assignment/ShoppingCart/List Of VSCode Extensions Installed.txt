@@ -1,0 +1,6 @@
+List Of VSCode Extensions Installed
+Pylance
+Jupyter
+Jupyter Keymap
+Jupyter Notebook
+Python
